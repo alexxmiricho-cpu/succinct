@@ -96,7 +96,7 @@ export default function ServicesSection() {
           <h2 id="services-heading" className="text-3xl sm:text-5xl font-extrabold text-foreground tracking-tighter leading-tight mt-3">
             Satellite-Grade Services
             <br />
-            <span className="text-muted-foreground font-light text-2xl sm:text-4xl">Built for Kenya</span>
+            <span className="text-muted-foreground font-light text-2xl sm:text-4xl"></span>
           </h2>
           <p className="text-muted-foreground text-base sm:text-lg max-w-2xl mx-auto mt-4 leading-relaxed">
             Every solution works without SIM cards or base stations — powered entirely by satellite for true nationwide coverage across all 47 counties.
