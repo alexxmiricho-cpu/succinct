@@ -115,7 +115,7 @@ export default function WhyUsSection() {
             Why Choose Us
           </span>
           <h2 id="why-us-heading" className="text-3xl sm:text-5xl font-extrabold text-white tracking-tighter leading-tight mt-3">
-            Trusted Across Kenya
+            Trusted Globally
             <br />
             <span className="text-white/50 font-light text-2xl sm:text-4xl">Proven. Reliable. Satellite-Native.</span>
           </h2>
