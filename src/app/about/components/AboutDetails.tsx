@@ -27,37 +27,38 @@ export default function AboutDetails() {
 
         {/* CTO & CFO Section */}
         <div className="mb-16 text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-primary mb-8">Meet Our Leadership</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-primary mb-8">Meet the Team</h2>
           <div className="flex flex-col sm:flex-row justify-center gap-12">
 
             {/* CTO */}
             <div className="flex flex-col items-center gap-6">
               <AppImage
-                src="/assets/images/cto.jpeg"
+                src="/assets/images/asset3.jpeg"
                 alt="CTO of Succinct Integrated Systems"
                 width={300}
                 height={300}
                 className="rounded-full shadow-lg"
               />
-              <h3 className="text-2xl font-semibold text-primary">CTO: [Name]</h3>
+              <h3 className="text-2xl font-semibold text-primary">Finance & Administration Manager: Herine Adhiambo</h3>
               <p className="text-lg text-text-secondary max-w-sm">
-                Driving technological innovation and overseeing the technical vision of Succinct Integrated Systems.
+                Managing the financial strategy and ensuring the fiscal health of Succinct Integrated Systems.
               </p>
+
             </div>
 
             {/* CFO */}
             <div className="flex flex-col items-center gap-6">
               <AppImage
-                src="/assets/images/cfo.jpeg"
+                src="/assets/images/asset2.jpeg"
                 alt="CFO of Succinct Integrated Systems"
                 width={300}
                 height={300}
                 className="rounded-full shadow-lg"
               />
-              <h3 className="text-2xl font-semibold text-primary">CFO: [Name]</h3>
+              <h3 className="text-2xl font-semibold text-primary">Operations Manager: Dickens Ojijo</h3>
               <p className="text-lg text-text-secondary max-w-sm">
-                Managing the financial strategy and ensuring the fiscal health of Succinct Integrated Systems.
-              </p>
+                Oversees the day-to-day running of a business, ensuring processes, people, and resources work efficiently to meet organizational goals.
+               </p>
             </div>
 
           </div>

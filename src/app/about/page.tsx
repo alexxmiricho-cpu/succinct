@@ -5,6 +5,7 @@ import Footer from '@/components/Footer';
 import AboutHero from './components/AboutHero';
 import AboutDetails from './components/AboutDetails';
 import AboutCTA from './components/AboutCTA';
+import AboutWorkGrid from './components/AboutWorkGrid';
 import FloatingWhatsApp from '../homepage/components/FloatingWhatsApp';
 import MobileStickyBar from '../homepage/components/MobileStickyBar';
 
@@ -23,6 +24,7 @@ export default function AboutPage() {
       <AboutHero />
       <AboutDetails />
       <AboutCTA />
+      <AboutWorkGrid />
       <Footer />
       <FloatingWhatsApp />
       <MobileStickyBar />

@@ -65,6 +65,15 @@ export default function Footer() {
                 <Icon name="ChatBubbleLeftRightIcon" size={16} variant="outline" />
               </a>
               <a
+                href="https://vm.tiktok.com/ZS9FUUNyXaJvg-7jN18/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center text-white/60 hover:text-accent hover:border-accent transition-colors"
+                aria-label="Visit our TikTok profile"
+              >
+                <Icon name="MusicalNoteIcon" size={16} variant="outline" />
+              </a>
+              <a
                 href="tel:+254711617610"
                 className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center text-white/60 hover:text-accent hover:border-accent transition-colors"
                 aria-label="Call us at 0711 617 610"
