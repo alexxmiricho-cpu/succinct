@@ -8,6 +8,12 @@ const quickLinks = [
   { label: 'Industries', href: '/industries-we-serve' },
   { label: 'Our Clients', href: '/our-clients' },
   { label: 'Contact', href: '/homepage#contact' },
+  { label: 'TikTok', href: 'https://vm.tiktok.com/ZS9FUUNyXaJvg-7jN18/' },
+  { label: 'Facebook', href: 'https://web.facebook.com/harold.omollo.1' },
+
+
+
+  
 ];
 
 const serviceLinks = [

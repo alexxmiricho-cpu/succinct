@@ -39,7 +39,7 @@ export default function AboutDetails() {
                 height={300}
                 className="rounded-full shadow-lg"
               />
-              <h3 className="text-2xl font-semibold text-primary">Finance & Administration Manager: Herine Adhiambo</h3>
+              <h3 className="text-2xl font-semibold text-primary">BCom. Finance & Administration Manager: Herine Adhiambo</h3>
               <p className="text-lg text-text-secondary max-w-sm">
                 Managing the financial strategy and ensuring the fiscal health of Succinct Integrated Systems.
               </p>
@@ -75,7 +75,7 @@ export default function AboutDetails() {
           <div className="bg-white p-8 rounded-lg shadow-md">
             <h3 className="text-2xl font-bold text-primary mb-4">Mission</h3>
             <p className="text-text-secondary">
-              Provide current and future solutions founded on new technologies. <br/>We ensure that the "future" is accessible to everyone today.
+              To provide current and future solutions founded on new technologies. <br/>We ensure that the "future" is accessible to everyone today.
             </p>
           </div>
           <div className="bg-white p-8 rounded-lg shadow-md">
@@ -88,7 +88,7 @@ export default function AboutDetails() {
 
         {/* Objectives */}
         <div className="mb-16">
-          <h3 className="text-3xl font-bold text-primary mb-8 text-center">General Objectives</h3>
+          <h3 className="text-3xl font-bold text-primary mb-8 text-center">General Objective</h3>
           <p className="text-lg text-text-secondary text-center max-w-4xl mx-auto mb-12">
             To partner with Global solution providers in addressing local problems.
           </p>

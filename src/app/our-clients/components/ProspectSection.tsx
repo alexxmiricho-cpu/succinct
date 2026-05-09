@@ -79,7 +79,7 @@ export default function ProspectSection() {
           <p className="text-muted-foreground text-sm">
             Also actively pursuing opportunities in{' '}
             <strong className="text-foreground">Bulk SMS Services</strong> —
-            now waiting for any low-hanging fruit 🍓🍑 to fall our way.
+            now waiting for any low-hanging fruits 🍓 to fall our way.
           </p>
         </div>
       </div>
