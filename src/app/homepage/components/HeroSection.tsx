@@ -75,10 +75,10 @@ export default function HeroSection() {
 
           {/* Subheadline */}
           <p className="text-white/70 text-base sm:text-lg md:text-xl max-w-2xl leading-relaxed mb-10 reveal opacity-100">
-            Track assets, protect children, and communicate across Kenya — with{' '}
+            Affordable & Reliable. Track assets, protect children, and communicate across Kenya — with{' '}
             <strong className="text-accent font-semibold">zero SIM cards</strong>,{' '}
             <strong className="text-accent font-semibold">zero base stations</strong>, and{' '}
-            <strong className="text-accent font-semibold">zero limits</strong>.
+            <strong className="text-accent font-semibold">zero limits</strong>. <br />We offer the cheapest solutions, built for you.
           </p>
 
           {/* CTAs */}

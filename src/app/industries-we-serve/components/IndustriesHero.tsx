@@ -22,7 +22,7 @@ export default function IndustriesHero() {
           <span className="gradient-text">We Serve</span>
         </h1>
         <p className="text-white/70 text-base sm:text-xl max-w-2xl mx-auto leading-relaxed">
-          From school buses in Nairobi to emergency responders in Kisumu - our satellite solutions power safety and communication for organizations across every sector in Kenya.
+          From school buses in Nairobi to emergency responders in Kisumu - our cheapest and affordable satellite solutions power safety and communication for organizations across every sector in Kenya. 
         </p>
         <div className="flex flex-wrap justify-center gap-3 mt-8">
           {['11 Sectors', 'All 47 Counties', 'No SIM Required', '24/7 Coverage']?.map((badge) => (

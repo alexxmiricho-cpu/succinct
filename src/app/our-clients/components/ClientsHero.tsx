@@ -20,7 +20,7 @@ export default function ClientsHero() {
           <span className="gradient-text">&amp; Partners</span>
         </h1>
         <p className="text-white/70 text-base sm:text-xl max-w-2xl mx-auto leading-relaxed">
-          From Kenya&apos;s top banks and government ministries to international humanitarian organizations — our satellite solutions are trusted where reliability is non-negotiable.
+          From Kenya&apos;s top banks and government ministries to international humanitarian organizations — our affordable satellite solutions are trusted where reliability is non-negotiable.
         </p>
         <div className="flex flex-wrap justify-center gap-3 mt-8">
           {['Banks & Finance', 'Government', 'Humanitarian', 'Security', 'Healthcare']?.map((badge) => (

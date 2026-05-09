@@ -41,7 +41,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-white/60 text-sm leading-relaxed max-w-xs mb-6">
-              Kenya&apos;s leading satellite solutions provider. Real-time tracking, fleet management, and radio communication — no SIM, no limits.
+              Kenya&apos;s leading satellite solutions provider globally. Real-time tracking, fleet management, and radio communication, and more — no SIM, no limits. <br />We offer the cheapest prices in the market. Affordable & Reliable, built for you.
             </p>
             <div className="flex items-center gap-4">
               <a

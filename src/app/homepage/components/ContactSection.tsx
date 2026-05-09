@@ -180,6 +180,11 @@ export default function ContactSection() {
                 <option value="School Fleet Management" className="bg-primary">School Fleet Management</option>
                 <option value="Satellite Asset Tracking" className="bg-primary">Satellite Asset Tracking</option>
                 <option value="Radio Communication" className="bg-primary">Satellite Radio Communication</option>
+                <option value="Radio Communication" className="bg-primary">Radio Frequency Asset Tagging</option>
+                <option value="Radio Communication" className="bg-primary">Remote Communities Live Radio Broadcast System</option>
+                <option value="Radio Communication" className="bg-primary">Tours and Travel Services, IATA certified</option>
+
+
                 <option value="Laptop Tracker" className="bg-primary">Laptop Tracker & Remote Wipe</option>
                 <option value="Airline Baggage Tracking" className="bg-primary">Airline Baggage Tracking</option>
                 <option value="Student ID Tags" className="bg-primary">Student ID Tags</option>
